@@ -1,5 +1,7 @@
 {
- "name": "App",
+ "lang": "en",
+ "name": "ConvexMediaColor - Convex Website",
+ "short_name": "ConvexMediaColor",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
